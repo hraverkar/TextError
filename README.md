@@ -1,0 +1,2 @@
+# TextError
+Text Error Blog 
